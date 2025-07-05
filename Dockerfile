@@ -51,7 +51,7 @@ COPY . .
 VOLUME ["/root/.stremio-server"]
 
 # HTTP
-EXPOSE 11470
+# EXPOSE 11470
 
 # HTTPS
 EXPOSE 12470
